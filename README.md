@@ -14,7 +14,7 @@ The order will be saved in your phone, and you can track the food at varied phas
 The restaurant will get a message of what food they have ordered and they will start cooking and will suggest an approximate turnaround time for your food delivery
 Then the restaurant staff come back to the food delivery app to check the next orders.
 The best part is, the orders are saved in history so that you can repeat your favourite item from your favourite restaurant anytime in just a few clicks.
-### online food delivery system database:
+### online food delivery system database!
 These databases are used to store the customers identity, location, contact details etc..... 
 contact details and identity informations of the customers are used to pursue the order of the customer and send the ordered food to the exact location of the customers.
 These details are been collected at once and it should be used only while using the application of the software.
